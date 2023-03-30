@@ -1,6 +1,8 @@
 authors:
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
+  - slug: crisomalke
+    name: Anjani Sharma
+    introduction: Founder of Introvex Inc. / Passionate Youtuber and Writter
